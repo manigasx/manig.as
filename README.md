@@ -4,12 +4,12 @@
 ###
 
 <div align="center">
-  <img height="280" src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif"  />
+  <img height="425" src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif"  />
 </div>
 
 ###
 
-<h5 align="center">Hello! 👋<br><br>My name is Manigasx.<br><br>I am a Developer from Turkey</h5>
+<h4 align="center">Hello! 👋<br><br>My name is Manigasx.<br><br>I am a Developer from Turkey</h4>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://discord.com/users/1157438837732163625" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
