@@ -1,4 +1,4 @@
-[(https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)]
+[![MasterHead](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)]
 
 <h1 align="center">Hi 👋, I'm Manigasx</h1>
 <h3 align="center">I am a developer from Turkey</h3>
