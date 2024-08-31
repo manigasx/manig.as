@@ -73,4 +73,4 @@
 
 ###
 
-<h4 align="center">- Discord Botu Yapılır Detaylar İçin Discord Hesabımdan İletişime Geçebilirsiniz.</h4>
+<h4 align="center">- Discord Botu Yapılır Detaylar İçin Discord Hesabımdan İletişime Geçebilirsiniz -</h4>
